@@ -1,0 +1,86 @@
+ADOBE EXPRESS: FROM RAW CLIPS TO READY TO AIR
+KHS Cougar News / Desktop web
+
+8-minute walkthrough + 30-second final check. Hands-on editing and media processing take extra time.
+
+BEFORE YOU START
+Sign in at https://express.adobe.com/ with your school-approved account. Have 3–5 horizontal clips, a short interview, an approved script, and headphones. Practice outcome: an approximately 30-second campus-news story.
+
+1. START WITH A HORIZONTAL STORY. (45 sec)
+Keep the format consistent with your campus broadcast.
+  1) Open Adobe Express. Choose Start from your content, upload your opening video, then choose Edit video.
+  2) Use a horizontal 16:9 clip to start. Check that the canvas is landscape before adding anything else; if it is not, start a new landscape video project from the home screen.
+  3) Rename your project with a useful title, such as FoodDrive_LastName.
+Desk note: This lesson makes a short, scene-based news segment. Start with your own footage so you can focus on the story.
+[ ] My project is named and the canvas is horizontal.
+
+2. PUT THE STORY IN ORDER. (60 sec)
+Give viewers a beginning, a voice, evidence, and a useful ending.
+  1) Choose Add media → Upload media in the timeline to bring in your remaining clips. Add them as separate scenes.
+  2) Drag scenes into order: opening → interview → action shots → closing. Aim for about 30 seconds for this practice edit.
+  3) Play the sequence. Each shot should add information: what is happening, who is involved, or what viewers need to know.
+Story check: Action shots are often called b-roll. In this quick sequence, they play between spoken scenes. Continuous narration under b-roll needs a separate audio track.
+[ ] My scenes tell a clear story in the right order.
+
+3. KEEP THE USEFUL MOMENTS. (75 sec)
+Remove waiting time while preserving what the speaker actually means.
+  1) Select a scene. Drag its edge handles inward to trim the beginning or end.
+  2) To remove a mistake in the middle, place the playhead before it, open the scene’s ⋯ menu or right-click, and choose Split. Split again after the mistake.
+  3) Select the unwanted middle section and delete it. Play across the join; adjust the cut if a word is clipped or the picture jumps awkwardly.
+Journalism check: Shorten pauses, not meaning. Never join phrases in a way that changes a quote. Keep transitions simple; a clean cut usually does the job.
+[ ] My cuts are tight, and the interview still means the same thing.
+
+4. LET THE VOICE LEAD. (60 sec)
+Listen on headphones before adding anything decorative.
+  1) Select each video scene and open its ⋯ controls to adjust volume. Play the interview and match nearby clips so the voice stays comfortable to hear.
+  2) Reduce distracting sound in action clips. Keep a little natural sound when it helps tell the story, such as boxes being packed.
+  3) For this first edit, skip background music. If you need separate narration later, use Add audio. To separate existing speech from its video, select the video on the canvas and choose Extract audio in the Video panel.
+If you extract audio: Express mutes the original video track. Keep the extracted track aligned with the picture and listen again so speech stays in sync.
+[ ] Speech is easy to hear and nothing suddenly gets too loud.
+
+5. TELL US WHO IS SPEAKING. (60 sec)
+A lower third identifies your source without taking over the screen.
+  1) Use Text in the left panel to add the speaker’s verified name and role. Put it near a lower corner, comfortably inside the frame.
+  2) Use a readable font and a contrasting background. Keep faces clear, and leave room for captions below or above the name.
+  3) Select the text, then use Switch views → Selected layer (or Show layer timing). Drag its timeline handles to show it only during the interview; leave enough time to read it.
+Example only: “Jordan Lee / Student volunteer” is a fictional ID. Replace it with your source’s confirmed name and role. Watch the cut after the interview to catch text that lingers.
+[ ] The ID is accurate, readable, and appears at the right time.
+
+6. MAKE EVERY WORD ACCESSIBLE. (75 sec)
+Generate captions after your main cuts, then check them against the audio.
+  1) On the timeline, select Open captions (CC). Choose the language spoken and set Media source to All if you have both video speech and separate narration. Select Generate.
+  2) In the Transcript panel, correct names, punctuation, and misheard words while listening. Do not guess at unclear speech; check the original recording.
+  3) Use Format for a simple, high-contrast style. Reposition captions so they do not cover names or faces; preview their timing.
+If CC is unavailable: Download the edited MP4, then use home → + → Quick actions → Video → Caption video. Upload that MP4, select the language, correct the caption text, style it, and download the captioned version.
+[ ] Captions match the speech and do not cover key information.
+
+7. RUN ONE UNINTERRUPTED PREVIEW. (45 sec)
+Watch as a viewer first. Then inspect as an editor.
+  1) Play from the beginning with headphones. Check the opening, every cut, voice clarity, and the ending. Look for black gaps or stray text.
+  2) Read every name, caption, and closing detail. Check real dates and locations against your reporting notes, not memory.
+  3) Check the runtime against the assignment. Make any fixes, then replay the changed section. If you change speech or timing, recheck the captions too.
+Producer check: A good closing shot gives the story a natural ending. Confirm that any footage, music, or graphics you use are approved for your intended broadcast.
+[ ] The full preview is clear, accurate, and complete.
+
+8. CHECK THE FILE YOU WILL TURN IN. (60 sec)
+The downloaded video is the version your audience will see.
+  1) Select Download at the top of the editor. Choose MP4 and 1080p if available, unless your producer specifies another resolution. Download and wait for rendering to finish.
+  2) Find the exported file in your Downloads folder. Rename it clearly, for example FoodDrive_LastName_FINAL.mp4.
+  3) Open that local MP4 and play it from start to finish. Verify picture, audio sync, captions, and ending. Hand off this checked file using your class submission method.
+Delivery check: This is a classroom MP4 workflow. If the broadcast system requires a particular frame rate, codec, or audio specification, confirm those requirements with your producer before delivery. Export time is extra.
+[ ] I know how to download and check the final MP4.
+
+FINAL CHECK (30 seconds)
+1. After downloading the MP4, what should you check?
+   Answer: Play the file and check picture, audio sync, captions, and ending.
+2. What if automatic captions misspell your source’s name?
+   Answer: Verify the spelling, correct it, and check timing.
+
+ADOBE REFERENCES
+https://helpx.adobe.com/express/web/video-creation-and-editing/create-videos/video.html
+https://helpx.adobe.com/express/web/video-creation-and-editing/edit-videos/adjust-layer-timing.html
+https://helpx.adobe.com/express/web/audio-and-animation/extract-audio.html
+https://helpx.adobe.com/express/web/video-creation-and-editing/edit-videos/caption-video.html
+https://www.adobe.com/learn/express/web/download-videos-express
+
+Instructions checked October 26, 2026. Interface and account permissions can vary. Follow your producer’s delivery requirements. This guide submits nothing.
